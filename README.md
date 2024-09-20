@@ -1,8 +1,12 @@
 # ReBook
 <img width="811" alt="스크린샷 2024-09-11 23 33 14" src="https://github.com/user-attachments/assets/d04690c8-fafc-4a50-b182-3fee3f6d2ae7">
 
+</br>
+
+### 📽️ 시연 영상
 [![Static Badge](https://img.shields.io/badge/-YouTube-red?logo=YouTube)](https://youtu.be/msiGwnS4l-Q?si=rC5baI9Mo6tcP4zG)
 
+</br>
 
 ### 🔖 프로젝트 개요
   - 주제 : 클라우드 기반 중고 전공 서적 거래를 위한 e-커머스 플랫폼
